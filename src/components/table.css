@@ -1,0 +1,26 @@
+.table {
+	display: flex;
+	flex-direction: row;
+}
+
+
+.button {
+	margin-left: 50px;
+	margin-top: 35px;
+	width: 190px;
+	height: 40px;
+	border-radius: 5px;
+	background-color: #673AB7;
+	color: white;
+}
+
+.edit{
+	margin-top: 40px;
+	margin-left: 30px;
+	
+}
+
+.recycle{
+	margin-left: 30px;
+	margin-top: 40px;
+}
